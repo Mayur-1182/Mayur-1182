@@ -33,7 +33,8 @@
  ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mayur-1182&theme=github-dark&hide_border=true&border_radius=8.9)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mayur-1182&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayur-1182&show_icons=true&theme=tokyonight)
 
