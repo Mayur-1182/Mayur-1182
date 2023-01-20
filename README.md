@@ -34,7 +34,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mayur-1182&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<!-- //[![GitHub Streak](https://streak-stats.demolab.com/?user=Mayur-1182&theme=radical&hide_border=true)](https://git.io/streak-stats) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayur-1182&show_icons=true&theme=tokyonight)
 
