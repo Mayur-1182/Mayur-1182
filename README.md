@@ -75,16 +75,6 @@ const mayur = {
 
 </div>
 
----
-
-## 🚀 What I'm Working On
-
-- 🎬 **Movie Review Platform** — Full stack MERN app with JWT auth, RTK Query, and MongoDB aggregations
-- 📦 **AI-Powered Multi-Vendor E-Commerce** — Microservices-inspired architecture with React + Node
-- 🧠 **Interview Prep Vault** — 200+ JS, 170+ TypeScript, RTK & Next.js Q&A docs
-
----
-
 ## 📬 Connect With Me
 
 <div align="center">
